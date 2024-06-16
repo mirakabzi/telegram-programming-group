@@ -14,5 +14,8 @@
 
 
 
-![Logo](https://raw.githubusercontent.com/mirakabzi/telegram-programming-group/main/telegram-group-for-programming.jpg)
+
+![گروه برنامه نویسی در تلگرام ](https://raw.githubusercontent.com/mirakabzi/telegram-programming-group/main/telegram-group-for-programming.jpg)
+
+
 
